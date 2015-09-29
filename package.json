@@ -1,0 +1,29 @@
+{
+  "name": "webdriverio-helpers",
+  "version": "0.1.0",
+  "description": "Helpers for webdriverio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhpugliese/webdriverio-helpers.git"
+  },
+  "keywords": [
+    "webdriverio",
+    "selenium"
+  ],
+  "author": "Gabriel Pugliese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielhpugliese/webdriverio-helpers/issues"
+  },
+  "homepage": "https://github.com/gabrielhpugliese/webdriverio-helpers#readme",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3",
+    "webdriverio": "^3.2.4"
+  }
+}
